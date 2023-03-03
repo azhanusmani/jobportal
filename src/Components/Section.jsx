@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container, Button } from 'react-bootstrap';
 
-import HeroImage from '../assets/heroImage.png';
+import HeroImage from '../assets/HeroImage.png';
 
 const Section = () => {
   return (
